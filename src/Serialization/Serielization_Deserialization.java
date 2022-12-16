@@ -30,6 +30,7 @@ public class Serielization_Deserialization {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
     private static void readObjects(){
 // Java da File islemlerinde okuma islemi yaparken FileInputStream class i kullanilir.
@@ -43,6 +44,7 @@ public class Serielization_Deserialization {
                 System.out.println(user1);
                 System.out.println(user2);
                 System.out.println(user3);
+
 
             } catch (ClassNotFoundException e) {
                 e.printStackTrace();
