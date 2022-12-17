@@ -1,10 +1,10 @@
-package AdvJavaPractice.generics.Enum;
+package AdvJavaPractice.Enum;
 
-public class Student {
+public class Teacher {
 
     String name;
 
-    public Student(String name) {
+    public Teacher(String name) {
         this.name = name;
     }
 
@@ -15,6 +15,5 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-
 }
 

@@ -1,4 +1,4 @@
-package AdvJavaPractice.generics;
+package AdvJavaPractice;
 import java.util.Arrays;
 public class GenericMethodPractice {
 

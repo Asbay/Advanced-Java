@@ -1,4 +1,4 @@
-package AdvJavaPractice.generics.Enum;
+package AdvJavaPractice.Enum;
 
 public class User {
 
